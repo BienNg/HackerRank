@@ -69,8 +69,10 @@ public class KruskalReallySpecialSubtree {
         }
 
         System.out.println(weightCounter);
+        /*
         for(Edge i : edgeList){
             System.out.println(i.weight);
         }
+        */
     }
 }
